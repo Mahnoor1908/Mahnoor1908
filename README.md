@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahnoor shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor shams" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahnoor shams" target="blank"><img align="center" src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fwoman-working-laptop-home-vector-illustration-cartoon-style_149952542.htm&psig=AOvVaw2HjpxHeN6VrgCDCHqbpQu-&ust=1756829334780000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPC57Lb5t48DFQAAAAAdAAAAABAE/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor shams" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
