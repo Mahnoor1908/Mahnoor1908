@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Shams</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://generative-ai.google.com/api/image?url=https%3A%2F%2Fgoogleusercontent.com%2Ffile_content%2F0">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/woman-working-laptop-home-vector-illustration-cartoon-style_1142-74343.jpg?w=360">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor1908&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor1908" /> </p>
 
 - 🌱 I’m currently learning **python**
