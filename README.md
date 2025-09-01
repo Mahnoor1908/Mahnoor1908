@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Shams</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://generative-ai.google.com/api/image?url=https%3A%2F%2Fgoogleusercontent.com%2Ffile_content%2F0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor1908&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor1908" /> </p>
 
 - 🌱 I’m currently learning **python**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahnoor shams" target="blank"><img align="center" src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fwoman-working-laptop-home-vector-illustration-cartoon-style_149952542.htm&psig=AOvVaw2HjpxHeN6VrgCDCHqbpQu-&ust=1756829334780000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPC57Lb5t48DFQAAAAAdAAAAABAE/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor shams" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahnoor shams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahnoor shams" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahnoor1908&show_icons=true&locale=en" alt="mahnoor1908" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor1908&" alt="mahnoor1908" /></p>
-
